@@ -75,5 +75,5 @@ Intermediate/*
 DerivedDataCache/*
 
 # Startercontent
-BattleTank/Content/StarterContent/Textures
-BattleTank/Content/StarterContent/HDRI
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
