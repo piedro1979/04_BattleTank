@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright Pdro Ltd. 2017
 
 #include "Tank.h"
 #include "TankAimingComponent.h"
